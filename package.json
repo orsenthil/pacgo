@@ -1,0 +1,8 @@
+{
+  "release": {
+    "branch": "master"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.3.7"
+  }
+}
